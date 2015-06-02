@@ -41,3 +41,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Directories to ignore.
+2Bedroom*
+test_files
+
+# Output and input files to ignore
+*.htm
+*.csv
+*.xlsx
+*.xlsm
